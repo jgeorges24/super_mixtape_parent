@@ -1,3 +1,8 @@
+
+let mixtapesContainer = document.getElementById("mixtapes-container")
+
+
+
 const startProgram = () => {
 
 }
